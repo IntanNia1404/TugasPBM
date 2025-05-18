@@ -1,8 +1,8 @@
-# Aplikasi Flutter 3 Halaman - Kelompok 1
+# Aplikasi Flutter 3 Halaman - Kelompok 8 
+# Siti Intan Nia - 4522210054
 
 ## Deskripsi Aplikasi:
-aplikasi ini adalah contoh sederhana penggunaan flutter_adaptive_scaffold untuk membangun 
-aplikasi Flutter yang responsif dan adaptif pada berbagai ukuran layar (mobile, tablet, desktop).
+Aplikasi ini merupakan implementasi dasar dari penggunaan flutter_adaptive_scaffold untuk membuat aplikasi Flutter yang responsif dan dapat menyesuaikan tampilan secara optimal di berbagai ukuran layar seperti perangkat mobile, tablet, dan desktop.
 
 ## Screenshot tampilan:
 ### tampilan handphone
